@@ -1,6 +1,17 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
-
+  },
+  "name": "myproject_express",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "node.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
